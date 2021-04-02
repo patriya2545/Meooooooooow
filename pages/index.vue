@@ -20,7 +20,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          งอนแง้วน้า
         </a>
       </div>
     </div>
